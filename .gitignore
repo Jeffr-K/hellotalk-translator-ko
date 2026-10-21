@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+node_modules/
+dist/
+*.tsbuildinfo
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.egg-info/
+recordings/
+models/
+
+docs
+learning
